@@ -1,4 +1,4 @@
 # Popover
 
-![ScreenShot](screenshot.PNG)
+![ScreenShot](screenshot.png)
 
